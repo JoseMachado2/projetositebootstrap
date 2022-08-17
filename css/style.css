@@ -1,0 +1,32 @@
+.navbar {
+
+
+background-color: lightseagreen;
+}
+
+.quem-somos {
+background-color: yellow;
+color: white;
+
+}
+
+.margin {
+
+padding-bottom: 50px;
+}
+
+.parceiros {
+    background-color: blue ;
+    padding-bottom: 50px;
+}
+
+.servicos {
+  margin-top: 40px;
+    padding-bottom:50px;
+    background-color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white
+}
